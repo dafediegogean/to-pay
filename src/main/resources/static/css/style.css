@@ -1,0 +1,60 @@
+.navbar-brand {
+	padding-top: 12px;
+}
+
+.panel-default {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.alert {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.aw-link-panel {
+	float:right;
+	padding: 0px;
+}
+
+.aw-titulo-panel {
+	float: left;
+	padding: 2px;
+}
+
+.btn-primary{
+	background-color:#007df7 ;
+}
+
+.btn-primary:hover{
+	background-color:#006bd2;
+}
+
+.btn-primary:active{
+	background-color:#006bd2 !important;
+}
+
+.btn-primary:focus{
+	background-color:#007df7;
+}
+
+
+.btn-primary{
+	border-color:#007df7 !important ;
+}
+
+.btn-primary:hover{
+	border-color:#006bd2 !important ;
+}
+
+.btn-primary:active{
+	border-color:#006bd2  !important;
+}
+
+.btn-primary:focus{
+	border-color:#007df7 ! ;
+}
+
+
+
+
